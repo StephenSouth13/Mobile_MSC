@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f-deli",
+    "slug": "f-deli",
+    "title": "Công ty TNHH F-Deli",
+    "category": "Mentoring & Coaching",
+    "summary": "Chuẩn hoá quy trình làm việc toàn diện, tối ưu hóa hiệu suất và xây dựng văn hóa doanh nghiệp bền vững.",
+    "mentors": ["phan-huynh-anh", "doan-duc-minh"]
+  },
+  {
+    "id": "happy-land",
+    "slug": "happy-land",
+    "title": "Khu du lịch Happy Land",
+    "category": "Đào tạo In-house",
+    "summary": "Nâng cao năng lực đội ngũ Sales & Marketing, chiến lược thu hút khách hàng.",
+    "mentors": ["phan-huynh-anh", "msc-teams"]
+  },
+  {
+    "id": "einstein-school",
+    "slug": "einstein-school",
+    "title": "Einstein School HCM",
+    "category": "Tư vấn & Đào tạo",
+    "summary": "Tư vấn chiến lược tuyển sinh và đào tạo đội ngũ Sales & Marketing.",
+    "mentors": ["phan-huynh-anh", "doan-duc-minh"]
+  }
+]

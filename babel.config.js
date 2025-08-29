@@ -5,7 +5,7 @@ module.exports = function (api) {
     plugins: [
       'expo-router/babel',
       'nativewind/babel',
-      'react-native-reanimated/plugin', // luôn đặt cuối
+      'react-native-reanimated/plugin', 
     ],
   };
 };
